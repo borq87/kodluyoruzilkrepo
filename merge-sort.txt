@@ -1,0 +1,11 @@
+Başlangıç: [16, 21, 11, 8, 12, 22] 
+1. Bölme: [16, 21, 11] | [8, 12, 22]
+2. Altbölme: [16] [21, 11] | [8] [12, 22]
+3. Daha da bölme: [16] [21] [11] | [8] [12][22] .
+4 Sıralı birleştirme: [11, 21] → [11, 16, 21] [12, 22] → [8, 12, 22] 
+5.Son birleştirme: [8, 11, 12, 16, 21, 22] 
+BIg-o
+her seferinde ikiye böldüğümüz için log n derinliğinde ağaç oluşur
+
+her seviyede n eleman olduğu için
+üç big o durumunda da  n log n olur 
