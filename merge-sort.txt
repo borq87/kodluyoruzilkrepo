@@ -9,3 +9,7 @@ her seferinde ikiye böldüğümüz için log n derinliğinde ağaç oluşur
 
 her seviyede n eleman olduğu için
 üç big o durumunda da  n log n olur 
+
+
+
+
