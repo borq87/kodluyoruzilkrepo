@@ -16,6 +16,6 @@ public class Degiskenler {
         int cevre  =  kisaKenar * 2 + uzunKenar * 2;
         int alan = kisaKenar * uzunKenar;
         System.out.println(alan);
-        System.out.println(cevre);
+    System.out.println(cevre); 
     }
 }
